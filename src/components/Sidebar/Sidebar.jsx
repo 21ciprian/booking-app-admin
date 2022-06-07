@@ -10,6 +10,9 @@ function Sidebar() {
 					BookingAdmin
 				</Link>
 			</div>
+			<hr />
+			<div className={styles.center}>Main</div>
+			<div className={styles.bottom}>Bottom</div>
 		</section>
 	)
 }
